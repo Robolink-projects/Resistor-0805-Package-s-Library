@@ -20,7 +20,7 @@ The custom library provided in this repository supports the following:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Robolink-projects/Resistor-0805-Package-s-Library>
    ```
 2. **Open the Project in Altium Designer:**
    Open the `.PrjPcb` file in Altium Designer to access the schematic and PCB layout.
