@@ -1,4 +1,3 @@
-# Resistor-0805-Package-s-Library
 # Altium Designer Project Repository
 
 This repository contains files for an Altium Designer project, including a custom resistor library for the 0805 package. It is organized to facilitate collaborative PCB and schematic design using Git.
