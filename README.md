@@ -7,7 +7,6 @@ This repository contains files for an Altium Designer project, including a custo
 
 - **Schematic Files (.SchDoc):** Contains the circuit design schematics.
 - **PCB Layout Files (.PcbDoc):** Includes the PCB layout design.
-- **Project Files (.PrjPcb):** Used to manage the project in Altium Designer.
 - **Custom Library (.SchLib, .PcbLib):** Includes a resistor library specifically for 0805 package components.
 
 ## Custom Resistor Library
@@ -44,9 +43,7 @@ The custom library provided in this repository supports the following:
 - Test schematic and PCB changes before pushing to the repository.
 - Follow Altium's best practices for design clarity and manufacturability.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
